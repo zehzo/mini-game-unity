@@ -1,0 +1,4 @@
+repository "Projeto Plataforma (NG)@NazareGames@cloud"
+  path "/"
+    br "/main"
+    co "/main"
